@@ -1,0 +1,19 @@
+Go Wave Robot API
+Written by Andrew Gerrand <adg@google.com>
+
+This is a library that will allow you to write Wave Robots in the 
+Go Programming Language. 
+
+It is currently in a very sparse state, and lacks almost everything beyond
+simply replying to blips. I would like to remedy this, but presently I lack
+the time to do so. If anyone wants to contribute, I will gladly accept patches.
+
+For more about Wave Robots, see:
+	http://code.google.com/apis/wave/extensions/robots/index.html
+
+For more about running Wave Robots outside of appengine, see:
+	http://code.google.com/apis/wave/extensions/robots/registration.html
+
+For more about Go, see: 
+	http://golang.org
+
