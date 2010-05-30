@@ -1,5 +1,5 @@
 Go Wave Robot API
-Written by Andrew Gerrand <adg@google.com>
+Written by Andrew Gerrand <adg@golang.org>
 
 This is a library that will allow you to write Wave Robots in the 
 Go Programming Language. 
